@@ -1,0 +1,11 @@
+C:\Users\Gsoltis\source\repos\Lab9ListsFromLab8\Lab9ListsFromLab8\obj\Debug\netcoreapp2.1\Lab9ListsFromLab8.csprojAssemblyReference.cache
+C:\Users\Gsoltis\source\repos\Lab9ListsFromLab8\Lab9ListsFromLab8\obj\Debug\netcoreapp2.1\Lab9ListsFromLab8.csproj.CoreCompileInputs.cache
+C:\Users\Gsoltis\source\repos\Lab9ListsFromLab8\Lab9ListsFromLab8\obj\Debug\netcoreapp2.1\Lab9ListsFromLab8.AssemblyInfoInputs.cache
+C:\Users\Gsoltis\source\repos\Lab9ListsFromLab8\Lab9ListsFromLab8\obj\Debug\netcoreapp2.1\Lab9ListsFromLab8.AssemblyInfo.cs
+C:\Users\Gsoltis\source\repos\Lab9ListsFromLab8\Lab9ListsFromLab8\bin\Debug\netcoreapp2.1\Lab9ListsFromLab8.deps.json
+C:\Users\Gsoltis\source\repos\Lab9ListsFromLab8\Lab9ListsFromLab8\bin\Debug\netcoreapp2.1\Lab9ListsFromLab8.runtimeconfig.json
+C:\Users\Gsoltis\source\repos\Lab9ListsFromLab8\Lab9ListsFromLab8\bin\Debug\netcoreapp2.1\Lab9ListsFromLab8.runtimeconfig.dev.json
+C:\Users\Gsoltis\source\repos\Lab9ListsFromLab8\Lab9ListsFromLab8\bin\Debug\netcoreapp2.1\Lab9ListsFromLab8.dll
+C:\Users\Gsoltis\source\repos\Lab9ListsFromLab8\Lab9ListsFromLab8\bin\Debug\netcoreapp2.1\Lab9ListsFromLab8.pdb
+C:\Users\Gsoltis\source\repos\Lab9ListsFromLab8\Lab9ListsFromLab8\obj\Debug\netcoreapp2.1\Lab9ListsFromLab8.dll
+C:\Users\Gsoltis\source\repos\Lab9ListsFromLab8\Lab9ListsFromLab8\obj\Debug\netcoreapp2.1\Lab9ListsFromLab8.pdb
